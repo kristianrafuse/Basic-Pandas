@@ -15,8 +15,6 @@ District Summary
 
 School Summary
 -------
-* Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
-* Include the following:
 * School name
 * School type
 * Total students
